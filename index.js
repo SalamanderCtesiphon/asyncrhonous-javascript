@@ -1,4 +1,4 @@
-// CALLBACKS
+/* // CALLBACKS
 
 // A callback function is a function passed into anouther function as an argument, which
 // is then invoked inside of the outer function to complete some knd of routine or actio
@@ -24,4 +24,6 @@ function logMyNumber() {
   console.log(myNumber)
 }
 
-addOne(logMyNumber)
+addOne(logMyNumber) */
+
+
