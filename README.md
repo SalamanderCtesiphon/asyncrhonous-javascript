@@ -1,6 +1,6 @@
-# asyncrhonous-javascript
+**# asyncrhonous-javascript
 a repo for working async js
-
+**
 
 Lesson objectives
   - explain what a callback is
